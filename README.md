@@ -1,1 +1,1 @@
-# BMI-Cal-Project
+# BMI-Calculator-Project
